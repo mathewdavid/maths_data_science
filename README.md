@@ -20,7 +20,7 @@
 <br>GitHub - https://github.com/mathewdavid/maths_data_science
 
 <b>Work History</b>
-<br><b><i>IT Manager at St. Joseph's Convent School, Jabalpur (2012-07 - Current)</i></b>
+<br><b><i>IT Manager | Python Developer,Educational Industry (St. Joseph's)(2012/07 - 2023/03)</i></b>
 <br>-Running regular checks on network and data security
 <br>-Identifying and acting on opportunities to improve and update software and systems
 <br>-Developing and implementing IT policies and best practice guides
