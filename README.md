@@ -18,6 +18,7 @@
 <b>Professional Links</b>
 <br>LinkedIn - https://www.linkedin.com/in/mathew-david-231ba498/
 <br>GitHub - https://github.com/mathewdavid/maths_data_science
+<br>Portfolio - https://www.datascienceportfol.io/mathewdavid1002
 
 <b>Work History</b>
 <br><b><i>IT Manager | Python Developer,Educational Industry (St. Joseph's)(2012/07 - 2023/03)</i></b>
