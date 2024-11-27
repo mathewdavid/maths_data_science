@@ -8,31 +8,6 @@ import time
 import matplotlib.pyplot as plt
 import PyPDF2 as pdf
 import google.generativeai as genai
-import subprocess
-import sys
-
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-
-# Ensure required libraries are installed
-try:
-    import matplotlib.pyplot as plt
-except ImportError:
-    install("matplotlib")
-    import matplotlib.pyplot as plt
-
-try:
-    import PyPDF2 as pdf
-except ImportError:
-    install("PyPDF2")
-    import PyPDF2 as pdf
-
-try:
-    import google.generativeai as genai
-except ImportError:
-    install("google-generativeai")
-    import google.generativeai as genai
-
 
 # Load environment variables
 load_dotenv()
